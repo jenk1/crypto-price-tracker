@@ -1,0 +1,16 @@
+.coin-app {
+  text-align: center;
+}
+
+.coin-text {
+  font-size: 48px;
+  font-family: Helvetica, sans-serif;
+}
+
+.coin-input {
+  text-align: center;
+  font-size: 18px;
+  border-radius: 5px;
+  height: 50px;
+  width: 300px;
+}
